@@ -11,7 +11,7 @@ class Aboutme extends Component {
                 <p>I've held an interest in computers from an early age and
                      I've just recently finished my Full Stack Certification. 
                      I plan on going back to school to pursue a graduate degree
-                      as i continue my journey in this field</p>
+                      as i continue my journey in this field.</p>
             </div>
         )
     }

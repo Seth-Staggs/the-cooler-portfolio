@@ -26,13 +26,13 @@ nav
 {
 padding:60px 30px 0px 30px ;
 flex:var(--sidebar-flex);
-background: rgb(34,139,34);
-background: linear-gradient(180deg, rgb(34, 139, 34) 50%, rgb(143, 188, 143) 80%);
+background: #379683;
+
 }
 .condiv
 {
 padding: 100px ;
-background-color: #dcdcdc;
+background-color: #5cdb95;
 flex:var(--condiv-flex);
 }
 
@@ -82,4 +82,16 @@ font-size: var(--fontsize-p);
 h1,h2,h3,h4,p
 {
 margin: 10px;
+}
+.widecard
+{
+border:0px solid #9a9b9c;
+display: flex;
+margin:30px 0px 30px 0px;
+}
+.widecard:hover
+{
+color: #1b1d20;
+background-color: #379683;
+box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
 }

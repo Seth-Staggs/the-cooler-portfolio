@@ -10,7 +10,7 @@ class Homepage extends Component {
              <img src={profilepic} alt="ProfilePic" className ="profilepic"></img> 
              <br></br>
 
-             <ReactTypingEffect className="typingeffect" text={[ "Hello!", "I'm Seth Staggs", "I'm a web developer"]} speed={100} eraseDelay={700}/>
+             <ReactTypingEffect className="typingeffect" text={[ "Howdy!", "I'm Seth Staggs", "I'm a web developer"]} speed={100} eraseDelay={700}/>
 
              <Social />
             </div>
