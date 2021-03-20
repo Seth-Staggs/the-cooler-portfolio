@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Social from '../components/Social';
+
 
 class Contact extends Component {
     render() {
@@ -11,13 +11,13 @@ class Contact extends Component {
                         <td>Seth D. Staggs</td>
                     
                     <tr>
-                        <th>Email</th>
+                        <th>Email:</th>
                         <td>
                             <a href="mailto:Sethstaggs2@gmail.com">Sethstaggs2@gmail.com</a>
                         </td>
                     </tr>
                     <tr>
-                        <th>Phone</th>
+                        <th>Phone:</th>
                         <td>
                             <a href="tel:+18173079082">1(817)-307-9082</a>
 
@@ -38,7 +38,6 @@ class Contact extends Component {
                         </td>
                     </tr>  
                 </table>
-               <Social/>
             </div>
         )
     }

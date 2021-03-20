@@ -14,6 +14,7 @@ padding: 0;
 body
 {
 font-family: 'Raleway';
+color: #05386b;
 }
 .App
 {
@@ -43,7 +44,7 @@ nav ul
   text-align: center;
   list-style-type: none;
   text-decoration: none;
-  color: white !important;
+  color: #05386b;
 }
 nav ul li
 {
@@ -54,23 +55,7 @@ nav ul li
 {
 font-weight: bolder;
 }
-.social
-{
-position: absolute;
-margin-top: 20px;
-display: flex;
-bottom: 60px;
-}
-.social i
-{
-padding-right: 30px;
-font-size: 25px;
-color: #9a9b9c;
-}
-.social i:hover
-{
-color: #ffffff;
-}
+
 .subtopic
 {
 margin:10px 10px 30px 10px !important;
@@ -94,4 +79,23 @@ margin:30px 0px 30px 0px;
 color: #1b1d20;
 background-color: #379683;
 box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+.footer{
+  margin-top: 1rem;
+  padding: 1rem;
+  background-color: #8ee4af;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+
+}
+.typingeffect{
+  font-size:var(--fontsize-nav) ;
+  color: #05386b;
+}
+.row{
+  margin-bottom: 10px;
+  width:100%;
+  align-content: center;
 }
