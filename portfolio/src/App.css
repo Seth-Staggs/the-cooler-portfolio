@@ -96,6 +96,7 @@ box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
 }
 .row{
   margin-bottom: 10px;
-  width:100%;
-  align-content: center;
+}
+.a{
+  font-size: var(--fontsize-p);
 }

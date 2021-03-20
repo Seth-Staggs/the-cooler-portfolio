@@ -9,7 +9,7 @@ import Education from './contents/Education';
 import Skills from './contents/Skills';
 import Contact from './contents/Contact';
 import Footer from './components/Footer';
-
+import Projects from "./contents/Projects";
 
 function App() {
     return (
@@ -32,6 +32,9 @@ function App() {
                     <Contact/>
                 </Route>
                 <Footer/>
+                <Route path="/projects">
+                    <Projects/>
+                </Route>
             </div>
         </Router>
     )
