@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/the-cooler-portfolio/static/css/main.2dc5458f.chunk.css",
+    "main.js": "/the-cooler-portfolio/static/js/main.68c15e5d.chunk.js",
+    "main.js.map": "/the-cooler-portfolio/static/js/main.68c15e5d.chunk.js.map",
+    "runtime-main.js": "/the-cooler-portfolio/static/js/runtime-main.22c29f6c.js",
+    "runtime-main.js.map": "/the-cooler-portfolio/static/js/runtime-main.22c29f6c.js.map",
+    "static/js/2.0132dc4f.chunk.js": "/the-cooler-portfolio/static/js/2.0132dc4f.chunk.js",
+    "static/js/2.0132dc4f.chunk.js.map": "/the-cooler-portfolio/static/js/2.0132dc4f.chunk.js.map",
+    "static/js/3.03caf6ba.chunk.js": "/the-cooler-portfolio/static/js/3.03caf6ba.chunk.js",
+    "static/js/3.03caf6ba.chunk.js.map": "/the-cooler-portfolio/static/js/3.03caf6ba.chunk.js.map",
+    "index.html": "/the-cooler-portfolio/index.html",
+    "static/css/main.2dc5458f.chunk.css.map": "/the-cooler-portfolio/static/css/main.2dc5458f.chunk.css.map",
+    "static/js/2.0132dc4f.chunk.js.LICENSE.txt": "/the-cooler-portfolio/static/js/2.0132dc4f.chunk.js.LICENSE.txt",
+    "static/media/profilepic.966d208b.png": "/the-cooler-portfolio/static/media/profilepic.966d208b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22c29f6c.js",
+    "static/js/2.0132dc4f.chunk.js",
+    "static/css/main.2dc5458f.chunk.css",
+    "static/js/main.68c15e5d.chunk.js"
+  ]
+}
